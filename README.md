@@ -1,1 +1,1 @@
-akkayasoft full stack eğitimi 2.grup çalışması
+# akkayasoft full stack eğitimi 2.grup çalışması
